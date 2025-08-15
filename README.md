@@ -7,6 +7,7 @@
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：23
 * 手 机：17696853572 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1557962340.com
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件开发工程师
+* github简历地址：https://github.com/QINCHUAN0516/resume
 
 ## 工作及教育经历
 
